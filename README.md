@@ -6,5 +6,9 @@ The Search Engine is created using transfer learning techniques. Pre-Trained CNN
 * VGG 16
 * Xception
 
-Euclidean distance has been used as the similarity metric. VGG 16 has been used as the final model for deployment. Below attached images demonstrate the use cases of the Women Fashion Image Search Engine.
+Euclidean distance has been used as the similarity metric. VGG 16 has been used as the final model for deployment. Below attached video demonstrate the use cases of the Women Fashion Image Search Engine.
+
+
+
+https://user-images.githubusercontent.com/69714874/154879493-3c6eb99b-5193-4131-9b66-e114e6a8600e.mov
 

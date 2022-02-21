@@ -10,5 +10,8 @@ Euclidean distance has been used as the similarity metric. VGG 16 has been used 
 
 
 
-https://user-images.githubusercontent.com/69714874/154879493-3c6eb99b-5193-4131-9b66-e114e6a8600e.mov
 
+<img width="1512" alt="Screenshot 2022-02-21 at 7 52 07 AM" src="https://user-images.githubusercontent.com/69714874/154879738-a6a796d7-d87c-461b-8826-4dbc3632f354.png">
+<img width="1512" alt="Screenshot 2022-02-21 at 7 52 40 AM" src="https://user-images.githubusercontent.com/69714874/154879759-5bdb819e-b797-43b2-b20a-d830054efb19.png">
+<img width="1512" alt="Screenshot 2022-02-21 at 7 54 12 AM" src="https://user-images.githubusercontent.com/69714874/154879790-7f50eda8-48f2-4b9d-945b-06d94a4c6ea4.png">
+<img width="1512" alt="Screenshot 2022-02-21 at 7 54 27 AM" src="https://user-images.githubusercontent.com/69714874/154879800-83dd42b7-12c1-4390-93c0-ed313448211d.png">

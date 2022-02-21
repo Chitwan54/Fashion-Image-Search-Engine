@@ -6,9 +6,9 @@ The Search Engine is created using transfer learning techniques. Pre-Trained CNN
 * VGG 16
 * Xception
 
-Euclidean distance has been used as the similarity metric. VGG 16 has been used as the final model for deployment. Below attached video demonstrate the use cases of the Women Fashion Image Search Engine. You can also checkout the video demo by clicking on the link attached below.
+Euclidean distance has been used as the similarity metric. VGG 16 has been used as the final model for deployment. Below attached video and images demonstrate the use cases of the Women Fashion Image Search Engine. You can also checkout the video demo by clicking on the link attached below.
 
-Video Demo: https://drive.google.com/file/d/13YRk2UKnxacbfD4zYSioeH2Do5KIxjfi/view?usp=sharing
+https://user-images.githubusercontent.com/69714874/154886349-92ef53ac-1521-40d8-8101-cd2ce59bd266.mp4
 
 
 
@@ -19,11 +19,5 @@ Video Demo: https://drive.google.com/file/d/13YRk2UKnxacbfD4zYSioeH2Do5KIxjfi/vi
 <img width="1512" alt="Screenshot 2022-02-21 at 8 16 41 AM" src="https://user-images.githubusercontent.com/69714874/154880852-2f1cf57a-a141-429d-9da1-7df57821a82d.png">
 <img width="1512" alt="Screenshot 2022-02-21 at 8 16 46 AM" src="https://user-images.githubusercontent.com/69714874/154880859-739e5e5a-2072-4af9-986d-865b3aef0e52.png">
 
-
-
-
-
-
-https://user-images.githubusercontent.com/69714874/154886349-92ef53ac-1521-40d8-8101-cd2ce59bd266.mp4
 
 

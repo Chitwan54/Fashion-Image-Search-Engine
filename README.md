@@ -8,6 +8,7 @@ The Search Engine is created using transfer learning techniques. Pre-Trained CNN
 
 Euclidean distance has been used as the similarity metric. VGG 16 has been used as the final model for deployment. Below attached video demonstrate the use cases of the Women Fashion Image Search Engine.
 
+https://drive.google.com/file/d/13YRk2UKnxacbfD4zYSioeH2Do5KIxjfi/view?usp=sharing
 
 
 
